@@ -35,6 +35,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+![InstagramClone2](https://user-images.githubusercontent.com/92124196/158261207-f6849d7c-f20b-4b7b-b126-286fac88bea8.gif)
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
